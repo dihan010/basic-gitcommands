@@ -1,7 +1,7 @@
 var unitPrice=100;
 var quantity=20;
 var totalPrice=unitPrice*quantity;
-// console.log(totalPrice);
+console.log(totalPrice);
 
 var x=30;
 var y=20;
