@@ -13,5 +13,7 @@ var studentAge2=25;
 var difference=studentAge1-studentAge2;
 console.log("difference ===>",difference);
 
-var remainder=studentAge1%studentAge2
-console.log("remainder===>",remainder)
+var remainder=studentAge1%studentAge2;
+var isStudent=true;
+console.log("remainder===>",remainder);
+console.log(typeof studentAge1,isStudent);
